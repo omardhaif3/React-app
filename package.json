@@ -1,6 +1,6 @@
 {
-  "name": "firstreact",
   "homepage": "https://omardhaif3.github.io/React-app",
+  "name": "firstreact",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
